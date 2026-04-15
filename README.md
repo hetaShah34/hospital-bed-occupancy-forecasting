@@ -42,4 +42,5 @@ hospital-bed-occupancy-forecasting/
 
 ## Suggested next step
 
-Add your raw dataset locally, then run the notebook or the preprocessing script first.
+Add raw dataset locally (at https://www.kaggle.com/datasets/noeyislearning/weekly-hospital-respiratory-data-and-metrics/data),
+then run the notebook or the preprocessing script first.
