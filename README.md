@@ -38,24 +38,6 @@ hospital-bed-occupancy-forecasting/
 - `src/evaluation.py`: RMSE, MAE, MAPE, and metrics table helpers.
 - `notebooks/hospital_bed_occupancy_workflow.ipynb`: cleaned notebook that ties the pipeline together.
 
-## How to create the GitHub repo
-
-### Option 1: easiest
-1. Go to GitHub.
-2. Click **New repository**.
-3. Name it `hospital-bed-occupancy-forecasting`.
-4. Keep it public unless you want it private.
-5. Create the empty repo.
-6. Upload the contents of this folder.
-
-### Option 2: from your computer
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin <your-repo-url>
-git push -u origin main
 ```
 
 ## Suggested next step
